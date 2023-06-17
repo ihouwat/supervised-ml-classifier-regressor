@@ -1,2 +1,3 @@
-# supervised-ml-classifier-regressor
-Supervised ML projects
+# Supervised Machine Learning Projects
+
+## Heart Disease Prediction - Classification Project 
